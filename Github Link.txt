@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://github.com/Taha-Code-Hup/Drowning-Detection-Project
-=======
-https://github.com/Taha-Code-Hup/Drowning-Detection-Project
->>>>>>> b40a3a57724a477cdf343e3bd61d98ff2c72d7a5
