@@ -1,0 +1,8 @@
+pip install opencv-python-headless
+pip install ultralytics
+pip install torch torchvision torchaudio
+pip install RPi.GPIO
+pip install requests
+pip install numpy
+pip install pillow
+pip install yt-dlp
