@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 pip install opencv-python-headless
 pip install ultralytics
 pip install torch torchvision torchaudio
@@ -7,7 +6,6 @@ pip install requests
 pip install numpy
 pip install pillow
 pip install yt-dlp
-=======
 pip install opencv-python-headless
 pip install ultralytics
 pip install torch torchvision torchaudio
@@ -16,4 +14,4 @@ pip install requests
 pip install numpy
 pip install pillow
 pip install yt-dlp
->>>>>>> b40a3a57724a477cdf343e3bd61d98ff2c72d7a5
+
